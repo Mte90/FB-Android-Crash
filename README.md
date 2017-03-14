@@ -28,5 +28,5 @@ The same issue doesn't happen on Facebook for iOS because they use a different e
 
 ## Conclusion
 
-There was a time where web developers fight for a free open web that works in the right way (web standards) and was easy to docuemnt and debug it but the mobile world is the new battlefield for developers.  
+There was a time where web developers fight for a free open web that works in the right way (web standards) and was easy to document and debug it but the mobile world is the new battlefield for developers.  
 As a Mozillian my suggestion is to fight that using real browser and create awareness to our customers to use the right browser and not a tiny toy in a black box with no button.
