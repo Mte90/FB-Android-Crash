@@ -34,6 +34,10 @@ As of today (14/03/2017) the last version of Facebook for Android crashes but I 
 
 The same issue doesn't happen with Facebook for iOS, because they use a different engine.
 
+### Updates:
+
+* 14/03/2017 - 16:00 UTC: FIrst of all thanks to all the people improved that readme! That repo was shared on [Reddit](https://www.reddit.com/r/webdev/comments/5zbb2d/lets_crash_the_integrated_browser_in_facebook_for/) and on [HackerNews](https://news.ycombinator.com/item?id=13867227) and gettings a little bit of success.
+
 ## Conclusion
 
 There was a time when web developers fought for a free open web that works in the right way (web standards) and was easy to document and debug, but the mobile world is the new battlefield for developers.  
