@@ -8,7 +8,7 @@ Facebook integrated browser is [one of the most used browsers on mobile](https:/
 
 ## For developers
 
-Are there are bugs you cannot test because there is no remote debug support and also if you are using Chrome on Android the same issue doesn't happen, probably because they use a different version for something? Like there was for Internet Explorer 6 (sorry to bring back the nightmares) we have no idea how it worked and how to debug in that.  
+Are there any bugs you cannot test because there is no remote debug support and also if you are using Chrome on Android the same issue doesn't happen, probably because they use a different version for something? Like there was for Internet Explorer 6 (sorry to bring back the nightmares) we have no idea how it worked and how to debug in that.  
 
 The only way is to create a HTML file for every test (download the page with `wget -E -H -k -K -p yoururl`), load on a server, create a private group, and share the URL of every version/test. That way we can avoid the caching of Facebook or the app (I have no idea how that works) and have a different version to test and see if Facebook for Android and its integrated browser works.
 
@@ -20,7 +20,7 @@ The behavior is very simple, you open the link from Facebook for Android and the
 
 Anything else, *hasta lasagna!* This is where my nightmare started.  
 
-Before discovering what the problematic feature was I lost many hours testing in the past few months, but yesterday I decided to find out what the issue was once and for all.
+Before discovering what the problematic feature was, I lost many hours testing in the past few months, but yesterday I decided to find out what the issue was once and for all.
 
 The issue is that the `src` parameter in the iframe does not contain a URL, but a base64-encoded image.
 
