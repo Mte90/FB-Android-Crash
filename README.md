@@ -30,13 +30,15 @@ Open this [link](https://www.facebook.com/Mte90/posts/10212614660344107) from Fa
 
 ## Version affected
 
-As of today (14/03/2017) the last version of Facebook for Android crashes but I worked on that issue in the last months so it is a bug that exist also on old versions of the app.  
+As of today (22/07/2017) the last version of Facebook for Android crashes but I worked on that issue in the last months so it is a bug that exist also on old versions of the app.  
 
 The same issue doesn't happen with Facebook for iOS, because they use a different engine.
 
 ### Updates:
 
-* 14/03/2017 - 16:00 UTC: FIrst of all thanks to all the people improved that readme! That repo was shared on [Reddit](https://www.reddit.com/r/webdev/comments/5zbb2d/lets_crash_the_integrated_browser_in_facebook_for/) and on [HackerNews](https://news.ycombinator.com/item?id=13867227) and gettings a little bit of success.
+* 22/07/2017 - 13:00 UTC: FThe problem extist in the last version of Facebook for Android.
+
+* 14/03/2017 - 16:00 UTC: First of all thanks to all the people improved that readme! That repo was shared on [Reddit](https://www.reddit.com/r/webdev/comments/5zbb2d/lets_crash_the_integrated_browser_in_facebook_for/) and on [HackerNews](https://news.ycombinator.com/item?id=13867227) and gettings a little bit of success.
 
 ## Conclusion
 
