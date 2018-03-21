@@ -6,6 +6,14 @@ It's easier for them to track what you read on the web more aggressively and tha
 
 Facebook integrated browser is [one of the most used browsers on mobile](https://twitter.com/auchenberg/status/834894652775923712?s=09) and sucks.
 
+### Updates:
+
+* 21/03/2018 - 18:00 UTC: The problem is fixed with the last version of Facebook for Android.
+
+* 22/07/2017 - 13:00 UTC: The problem exists in the last version of Facebook for Android.
+
+* 14/03/2017 - 16:00 UTC: First of all thanks to all the people improved that readme! That repo was shared on [Reddit](https://www.reddit.com/r/webdev/comments/5zbb2d/lets_crash_the_integrated_browser_in_facebook_for/) and on [HackerNews](https://news.ycombinator.com/item?id=13867227) and gettings a little bit of success.
+
 ## For developers
 
 Are there any bugs you cannot test because there is no remote debug support and also if you are using Chrome on Android the same issue doesn't happen, probably because they use a different version for something? Like there was for Internet Explorer 6 (sorry to bring back the nightmares) we have no idea how it worked and how to debug in that.  
@@ -33,12 +41,6 @@ Open this [link](https://www.facebook.com/Mte90/posts/10212614660344107) from Fa
 As of today (22/07/2017) the last version of Facebook for Android crashes but I worked on that issue in the last months so it is a bug that exist also on old versions of the app.  
 
 The same issue doesn't happen with Facebook for iOS, because they use a different engine.
-
-### Updates:
-
-* 22/07/2017 - 13:00 UTC: FThe problem extist in the last version of Facebook for Android.
-
-* 14/03/2017 - 16:00 UTC: First of all thanks to all the people improved that readme! That repo was shared on [Reddit](https://www.reddit.com/r/webdev/comments/5zbb2d/lets_crash_the_integrated_browser_in_facebook_for/) and on [HackerNews](https://news.ycombinator.com/item?id=13867227) and gettings a little bit of success.
 
 ## Conclusion
 
